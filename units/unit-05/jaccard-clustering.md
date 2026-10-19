@@ -8,9 +8,7 @@ This activity explored the use of Jaccard distance to measure dissimilarity betw
 
 Jaccard distance is calculated as:
 
-\[
-d_J(A,B)=1-\frac{M_{11}}{M_{11}+M_{10}+M_{01}}
-\]
+dj (A,B) = 1 – M11/ (M11 + M10 + M01 )
 
 Where:
 
