@@ -35,25 +35,12 @@ The regression section evaluated prediction errors using mean squared error (MSE
 
 The results were:
 
+** Mean squared error (MSE) **:0.375
 
+** Mean squared error (MSE) **:0.500
 
+** (R^2) **:0.9486
 
-
-Mean squared error (MSE)
-
-0.375
-
-Mean squared error (MSE)
-
-0.500
-
-(R^2)
-
-0.9486
-| Metric | Result | 
-|---|---|
-| Mean squared error (MSE)|Mean absolute error (MAE) |R² |
-|0.375| 0.500 |0.9486|
 
 The mean absolute error represents the average absolute difference between actual and predicted values. Mean squared error penalises larger errors more heavily because the differences are squared. The (R^2) score indicates how well the predictions explain variation in the target values in this example.
 
