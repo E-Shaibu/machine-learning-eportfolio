@@ -21,9 +21,11 @@ These results apply to this experiment only. The presentation notes that the tes
 Describe the Grad-CAM analysis and the implications of class-level errors, dataset limitations, brightness sensitivity and the need for independent evaluation and human oversight.
 
 ## Artefacts
-- Presentation: add a link to the file or published copy.
-- Notebook/results: add links or selected screenshots where appropriate.
-- Confusion matrix/Grad-CAM/robustness evidence: add verified images.
+
+- **Individual project presentation:** [Comparative Intelligence and Ethics in Machine Learning](./COMPARATIVE%20INTELLIGENCE%20AND%20ETHICS%20IN%20MACHINE%20LEARNING.pptx)
+- **Experimental notebook:** [ML vs DL notebook](./ML%20vs%20DL.ipynb)
+
+The presentation summarises the experimental comparison between HOG-SVM and CNN, including model performance, brightness robustness, explainability and ethical considerations. The notebook provides supporting experimental code and outputs.
 
 ## Reflection
 What did this experiment teach me about comparing models beyond accuracy? What would I change in the experimental design before deployment?
