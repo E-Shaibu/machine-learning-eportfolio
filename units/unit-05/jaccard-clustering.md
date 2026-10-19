@@ -31,10 +31,9 @@ Comparing Fever, Cough and Test-1 to Test-4:
 
 Therefore:
 
-\[
-d_J(\text{Jack, Mary})=1-\frac{2}{3}
-=\boxed{0.333}
-\]
+Jaccard distance = 1 − (Shared positives ÷ Total positive attributes)
+
+= 1 − (2 ÷ 3)
 
 ### 2. Jack and Jim
 
@@ -43,11 +42,9 @@ d_J(\text{Jack, Mary})=1-\frac{2}{3}
 
 Therefore:
 
-\[
-d_J(\text{Jack, Jim})=1-\frac{1}{3}
-=\boxed{0.667}
-\]
+Jaccard distance = 1 − (1 ÷ 3)
 
+= 0.667
 ### 3. Jim and Mary
 
 - Shared positive attribute: Fever.
@@ -55,10 +52,9 @@ d_J(\text{Jack, Jim})=1-\frac{1}{3}
 
 Therefore:
 
-\[
-d_J(\text{Jim, Mary})=1-\frac{1}{4}
-=\boxed{0.750}
-\]
+Jaccard distance = 1 − (1 ÷ 4)
+
+= 0.750
 
 ## Summary of Results
 
