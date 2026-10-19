@@ -16,12 +16,12 @@ The report identifies differences in price sensitivity across listing segments. 
 Demand is proxied by review volume rather than observed bookings, occupancy or revenue. Advertised prices omit some costs and seasonal effects, and model error is larger for the highest-price listings.
 
 ## Individual contribution
-According to my peer review, I completed Sections 1–4 of the report and contributed to the data dictionary, methodology, report structure, references and discussions about the business question and interpretation.
+I completed Sections 1–4 of the report and contributed to the data dictionary, methodology, report structure, references and discussions about the business question and interpretation.
 
 ## Artefacts
 - Final report: link or attach a permitted copy.
 - Team repository: https://github.com/ishalaan/airbnb-nyc-business-analysis/
-- Peer-review evidence: add a suitably redacted extract if appropriate.
+- Peer-review evidence: Available as supporting evidence of my individual contribution, subject to confidentiality requirements.
+## Learning and Development
 
-## Reflection
-Discuss what the project taught me about data preparation, segmentation, interpreting model results, teamwork and communicating limitations.
+This project helped me understand how data preparation, feature engineering and customer segmentation support business analysis. It also reinforced the importance of interpreting model results in context, communicating limitations and distinguishing a proxy for demand from actual bookings, occupancy or revenue. My contribution to the report strengthened my experience in methodology development, technical writing and collaborative analysis. I will explore these lessons further in my overall critical reflection.
