@@ -22,10 +22,9 @@ Describe the Grad-CAM analysis and the implications of class-level errors, datas
 
 ## Artefacts
 
-- **Individual project presentation:** [Comparative Intelligence and Ethics in Machine Learning](./COMPARATIVE%20INTELLIGENCE%20AND%20ETHICS%20IN%20MACHINE%20LEARNING2.pptx)
+- **Individual project presentation:** [Comparative Intelligence and Ethics in Machine Learning](./COMPARATIVE%20INTELLIGENCE%20%20AND%20ETHICS%20IN%20MACHINE%20LEARNING2%20%20%20.ppt)
 - **Experimental notebook:** [ML vs DL notebook](./ML%20vs%20DL.ipynb)
 
-The presentation summarises the experimental comparison between HOG-SVM and CNN, including model performance, brightness robustness, explainability and ethical considerations. The notebook provides supporting experimental code and outputs.
-
+The presentation summarises the comparison between HOG-SVM and CNN, including model performance, brightness robustness, explainability and ethical considerations. The notebook contains supporting experimental code and outputs.
 ## Reflection
 What did this experiment teach me about comparing models beyond accuracy? What would I change in the experimental design before deployment?
